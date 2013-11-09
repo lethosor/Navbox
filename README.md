@@ -1,0 +1,4 @@
+Navbox
+======
+
+MediaWiki navbox extension
